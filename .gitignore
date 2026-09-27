@@ -1,0 +1,14 @@
+# Composer dependencies
+/vendor/
+
+# User uploaded files
+/uploads/
+
+# Archive files
+*.zip
+
+# Environment / secret files
+.env
+
+# Local configuration
+config.php
